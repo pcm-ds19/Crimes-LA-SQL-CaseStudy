@@ -35,8 +35,11 @@ This case study demonstrates SQL skills in querying, filtering, joining, and agg
 ---
 
 ##  Repository Structure  
-- `Crimes_LA.sql` → SQL queries used for the analysis  
-- `Crimes_LA_Report.pdf` → Business report with findings and insights  
+
+- **sql/sql/crime_la_queries.sql** → Final SQL queries (Q1–Q10)
+- **sql/sql/crime_la_project_dumpfile.sql** → Database dump file
+- **docs/Crimes_LA_Project_Report.pdf** → Final Business Report (with insights & findings)
+ 
 
 ---
 
