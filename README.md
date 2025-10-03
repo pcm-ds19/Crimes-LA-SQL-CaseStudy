@@ -39,6 +39,11 @@ This case study demonstrates SQL skills in querying, filtering, joining, and agg
 - **sql/sql/crime_la_queries.sql** → Final SQL queries (Q1–Q10)
 - **sql/sql/crime_la_project_dumpfile.sql** → Database dump file
 - **docs/Crimes_LA_Project_Report.pdf** → Final Business Report (with insights & findings)
+
+- [ SQL Queries (Q1–Q10)](sql/sql/crime_la_queries.sql)  
+[ Database Dumpfile](sql/sql/crime_la_project_dumpfile.sql)  
+[ Final Report (PDF)](docs/Crimes_LA_Project_Report.pdf)  
+
  
 
 ---
